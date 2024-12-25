@@ -9,9 +9,9 @@
 <details>
 
 <summary>Click for more information</summary>
-Nothing
-Nothing
-Nothing
+  Nothing
+  Nothing
+  Nothing
 
 </details>
 
