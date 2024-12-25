@@ -25,18 +25,6 @@
       "properties": {
         "ID": 0
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-13, 37],
-            [-13, 37.5],
-            [10, 37.5],
-            [10, 37],
-            [-13, 37]
-          ]
-        ]
-      }
     },
     {
       "type": "Feature",
