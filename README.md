@@ -28,11 +28,14 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [6.0, 47.0],
-            [18.5, 47.0],
-            [18.5, 35.5],
-            [6.0, 35.5],
-            [6.0, 47.0]
+            [6.627, 45.073],  // Punto in alto a sinistra dell'Italia
+            [9.257, 44.882],  // Punto sulla costa ovest
+            [12.602, 44.406], // Inizio della costa est
+            [14.549, 42.749], // Vicino alla parte meridionale
+            [17.261, 40.865], // Punto a sud-est
+            [15.508, 38.632], // Punta della Calabria
+            [10.801, 37.501], // Punto a sud
+            [6.627, 45.073]   // Torniamo al punto iniziale
           ]
         ]
       }
@@ -47,7 +50,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [12.389, 43.112]
+        "coordinates": [12.389, 43.112] // Coordinate precise di Perugia
       }
     }
   ]
