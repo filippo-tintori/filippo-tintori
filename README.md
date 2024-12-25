@@ -4,7 +4,9 @@
 🔭 Passionate about science, programming, and exploring the mysteries of the universe!  
 🔬 Working on something crazy? Always. Will it work? Who knows, but it’s going to be fun finding out!  
 
-**Programming**: I enjoy working with Python, C++, and other languages to solve scientific problems.
+💻 I enjoy working with Python, C++, and other languages to solve scientific problems.
+
+"Breaking code and questioning reality—one experiment at a time."
 <!--
 **filippo-tintori/filippo-tintori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
