@@ -8,7 +8,7 @@
 
 <details>
 
-<summary>Click for other information</summary>
+<summary>Click for more information</summary>
 Nothing
 Nothing
 Nothing
