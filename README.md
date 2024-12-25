@@ -15,6 +15,46 @@
   </ul>
 </details>
 
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0,
+        "Name": "Italia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [6.627, 47.09],
+              [18.784, 47.09],
+              [18.784, 35.29],
+              [6.627, 35.29],
+              [6.627, 47.09]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "ID": 1,
+        "Name": "Perugia",
+        "Color": "red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.389, 43.112]
+      }
+    }
+  ]
+}
+
+
 > [!TIP]
 > "Breaking code and questioning reality—one experiment at a time."
 <!--
