@@ -9,9 +9,9 @@
 <details>
   <summary>Click for more information</summary>
   <ul>
-    <li>Repository: Nothing</li>
-    <li>Stars: Nothing</li>
-    <li>Forks: Nothing</li>
+    <li>Nothing</li>
+    <li>Nothing</li>
+    <li>Nothing</li>
   </ul>
 </details>
 > [!TIP]
