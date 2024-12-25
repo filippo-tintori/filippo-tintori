@@ -26,7 +26,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [12.389, 43.112] // Coordinate precise di Perugia
+        "coordinates": [12.389, 43.112] 
       }
     }
   ]
