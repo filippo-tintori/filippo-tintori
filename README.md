@@ -6,7 +6,14 @@
 
 💻 I enjoy working with Python, C++, and other languages to solve scientific problems.
 
+<details>
 
+<summary>Other information</summary>
+Nothing
+Nothing
+Nothing
+
+</details>
 
 > [!TIP]
 > "Breaking code and questioning reality—one experiment at a time."
