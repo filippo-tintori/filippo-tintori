@@ -25,27 +25,6 @@
         "ID": 0
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-13, 37],
-            [-13, 37.5],
-            [10, 37.5],
-            [10, 37],
-            [-13, 37]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2,
-      "properties": {
-        "ID": 1,
-        "name": "Perugia",
-        "color": "red"
-      },
-      "geometry": {
         "type": "Point",
         "coordinates": [12.389, 43.112]
       }
