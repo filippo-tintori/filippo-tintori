@@ -15,6 +15,7 @@
   </ul>
 </details>
 
+```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -22,37 +23,24 @@
       "type": "Feature",
       "id": 1,
       "properties": {
-        "ID": 0,
-        "Name": "Italia"
+        "ID": 0
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-              [6.627, 47.09],
-              [18.784, 47.09],
-              [18.784, 35.29],
-              [6.627, 35.29],
-              [6.627, 47.09]
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
           ]
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2,
-      "properties": {
-        "ID": 1,
-        "Name": "Perugia",
-        "Color": "red"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.389, 43.112]
       }
     }
   ]
 }
+```
 
 
 > [!TIP]
