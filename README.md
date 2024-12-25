@@ -14,27 +14,6 @@
   </ul>
 </details>
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.389, 43.112] 
-      }
-    }
-  ]
-}
-
-
-```
-
 
 > [!TIP]
 > "Breaking code and questioning reality—one experiment at a time."
