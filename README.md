@@ -14,6 +14,7 @@
     <li>Nothing</li>
   </ul>
 </details>
+
 > [!TIP]
 > "Breaking code and questioning reality—one experiment at a time."
 <!--
