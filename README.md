@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I'm Filippo!
+
+🎓 **Physics Student** at the **University of Perugia**.  
+🔭 Passionate about science, programming, and exploring the mysteries of the universe!  
+
+
+**Programming**: I enjoy working with Python, C++, and other languages to solve scientific problems.
 
 <!--
 **filippo-tintori/filippo-tintori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
