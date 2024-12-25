@@ -7,14 +7,13 @@
 💻 I enjoy working with Python, C++, and other languages to solve scientific problems.
 
 <details>
-
-<summary>Click for more information</summary>
-  Nothing
-  Nothing
-  Nothing
-
+  <summary>Click for more information</summary>
+  <ul>
+    <li>Repository: Nothing</li>
+    <li>Stars: Nothing</li>
+    <li>Forks: Nothing</li>
+  </ul>
 </details>
-
 > [!TIP]
 > "Breaking code and questioning reality—one experiment at a time."
 <!--
