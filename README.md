@@ -25,36 +25,13 @@
         "ID": 0
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [6.627, 45.073],  
-            [9.257, 44.882],  
-            [12.602, 44.406], 
-            [14.549, 42.749],
-            [17.261, 40.865],
-            [15.508, 38.632],
-            [10.801, 37.501], 
-            [6.627, 45.073] 
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2,
-      "properties": {
-        "ID": 1,
-        "name": "Perugia",
-        "color": "red"
-      },
-      "geometry": {
         "type": "Point",
-        "coordinates": [12.389, 43.112]
+        "coordinates": [12.389, 43.112] // Coordinate precise di Perugia
       }
     }
   ]
 }
+
 
 ```
 
