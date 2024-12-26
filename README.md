@@ -2,7 +2,7 @@
 
 🎓 **Physics Student** at the **University of Perugia**.  
 🔭 Passionate about science, programming, and exploring the mysteries of the universe!  
-💻 I enjoy working with Python, C++, and other languages to solve scientific problems.
+💻 I enjoy working with Python, C++, and other languages to solve scientific problems.  
 🔬 Working on something crazy? Always. Will it work? Who knows, but it’s going to be fun finding out!  
 
 <details>
