@@ -8,9 +8,7 @@
 <details>
   <summary>Click for more information</summary>
   <ul>
-    <li>Nothing</li>
-    <li>Nothing</li>
-    <li>Nothing</li>
+    <li>It's enough what I have said already.</li>
   </ul>
 </details>
 
