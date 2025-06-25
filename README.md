@@ -1,5 +1,4 @@
-<img align="right" alt="PNG" src="https://github.com/filippo-tintori/filippo-tintori/atomo.jpg" width="420" height="270" />
-  <br />
+<img align="right" alt="PNG" src="https://github.com/filippo-tintori/filippo-tintori/blob/main/atomo.jpg" width="420" height="270" />
 
 ## 👋 Hi, I'm Filippo!
 
