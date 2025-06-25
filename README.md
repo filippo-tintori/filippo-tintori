@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-tintori&layout=compact" width="370"/>
 </a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Francesco-Zeno-Costanzo&show_icons=true&theme=nord" width="420" />
+</a>
