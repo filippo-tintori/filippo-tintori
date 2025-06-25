@@ -1,3 +1,6 @@
+<img align="right" alt="PNG" src="https://github.com/filippo-tintori/filippo-tintori/atomo.jpg" width="420" height="270" />
+  <br />
+
 ## 👋 Hi, I'm Filippo!
 
 🎓 **Physics Student** at the **University of Perugia**.  
