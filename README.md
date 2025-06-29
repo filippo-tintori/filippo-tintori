@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Filippo!
 
-<img align="right" alt="PNG" src="https://github.com/filippo-tintori/filippo-tintori/blob/main/atomo.jpg" width="270" height="270" />
+<img align="right" alt="PNG" src="https://github.com/filippo-tintori/filippo-tintori/blob/main/atomo.jpg" width="256" height="197" />
 
 🎓 **Physics Student** at the **University of Perugia**.  
 🔭 Passionate about science, programming, and exploring the mysteries of the universe!  
