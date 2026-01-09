@@ -19,16 +19,19 @@
 > "Breaking code and questioning reality—one experiment at a time."
 
 
+
+
+<!--
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-tintori&layout=compact&hide_progress=false&cache_seconds=1800" width="370"/>
 </a>
 
 
-
-<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-tintori&layout=compact" width="370"/>
 </a>
+
 --!>
 
 
