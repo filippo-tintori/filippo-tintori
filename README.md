@@ -17,6 +17,22 @@
 
 > [!TIP]
 > "Breaking code and questioning reality—one experiment at a time."
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-tintori&layout=compact&hide_progress=false&cache_seconds=1800" width="370"/>
+</a>
+
+
+
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-tintori&layout=compact" width="370"/>
+</a>
+--!>
+
+
+
 <!--
 **filippo-tintori/filippo-tintori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,9 +48,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-tintori&layout=compact" width="370"/>
-</a>
+
 
 <!--
 <a href="https://github.com/anuraghazra/convoychat">
